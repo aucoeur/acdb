@@ -1,5 +1,5 @@
 # Animal Crossing Database
-> This project uses React and is dockerized.
+> This project will use React and be dockerized
 
 --------
 # Resources
