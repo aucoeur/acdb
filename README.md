@@ -1,3 +1,11 @@
+# Animal Crossing Database
+> This project uses React and is dockerized.
+
+--------
+# Resources
+
+Special thanks to (https://github.com/jefflomacy/villagerdb)[VillagerDB] for public JSON data
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
