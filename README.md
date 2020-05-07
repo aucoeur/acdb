@@ -4,7 +4,7 @@
 --------
 # Resources
 
-Special thanks to [https://github.com/jefflomacy/villagerdb](jefflomancy/VillagerDB) for public JSON data
+Special thanks to [jefflomancy/VillagerDB](https://github.com/jefflomacy/villagerdb) for public JSON data
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
