@@ -1,0 +1,426 @@
+[
+ {
+   "Name": "Acanthostega",
+   "Image": "NH-Furniture-acanthostega.png",
+   "Price": "2,000 Bells"
+ },
+ {
+   "Name": "Amber",
+   "Image": "NH-Furniture-amber.png",
+   "Price": "1,200 Bells"
+ },
+ {
+   "Name": "Ammonite",
+   "Image": "NH-Furniture-ammonite.png",
+   "Price": "1,100 Bells"
+ },
+ {
+   "Name": "Anomalocaris",
+   "Image": "NH-Furniture-anomalocaris.png",
+   "Price": "2,000 Bells"
+ },
+ {
+   "Name": "Archaeopteryx",
+   "Image": "NH-Furniture-archaeopteryx.png",
+   "Price": "1,300 Bells"
+ },
+ {
+   "Name": "Australopith",
+   "Image": "NH-Furniture-australopith.png",
+   "Price": "1,100 Bells"
+ },
+ {
+   "Name": "Coprolite",
+   "Image": "NH-Furniture-coprolite.png",
+   "Price": "1,100 Bells"
+ },
+ {
+   "Name": "Dinosaur track",
+   "Image": "NH-Furniture-dinosaurtrack.png",
+   "Price": "1,000 Bells"
+ },
+ {
+   "Name": "Dunkleosteus",
+   "Image": "NH-Furniture-dunkleosteus.png",
+   "Price": "3,500 Bells"
+ },
+ {
+   "Name": "Eusthenopteron",
+   "Image": "NH-Furniture-eusthenopteron.png",
+   "Price": "2,000 Bells"
+ },
+ {
+   "Name": "Juramaia",
+   "Image": "NH-Furniture-juramaia.png",
+   "Price": "1,000 Bells"
+ },
+ {
+   "Name": "Myllokunmingia",
+   "Image": "NH-Furniture-myllokunmingia.png",
+   "Price": "1,500 Bells"
+ },
+ {
+   "Name": "Shark-tooth pattern",
+   "Image": "NH-Furniture-sharktoothpattern.png",
+   "Price": "1,000 Bells"
+ },
+ {
+   "Name": "Trilobite",
+   "Image": "NH-Furniture-trilobite.png",
+   "Price": "1,300 Bells"
+ },
+ {
+   "Name": "Ankylo skull",
+   "Image": "NH-Furniture-ankyloskull.png",
+   "Price": "5,000 Bells",
+   "Completes": "Ankylosaurus"
+ },
+ {
+   "Name": "Ankylo torso",
+   "Image": "NH-Furniture-ankylotorso.png",
+   "Price": "3,000 Bells",
+   "Completes": "Ankylosaurus"
+ },
+ {
+   "Name": "Ankylo tail",
+   "Image": "NH-Furniture-ankylotail.png",
+   "Price": "2,500 Bells",
+   "Completes": "Ankylosaurus"
+ },
+ {
+   "Name": "Archelon skull",
+   "Image": "NH-Furniture-archelonskull.png",
+   "Price": "4,000 Bells" ,
+   "Completes": "Archelon"
+ },
+ {
+   "Name": "Archelon tail",
+   "Image": "NH-Furniture-archelontail.png",
+   "Price": "3,500 Bells" ,
+   "Completes": "Archelon"
+ },
+ {
+   "Name": "Brachio skull",
+   "Image": "NH-Furniture-brachioskull.png",
+   "Price": "6,000 Bells" ,
+   "Completes": "Brachiosaurus"
+ },
+ {
+   "Name": "Brachio chest",
+   "Image": "NH-Furniture-brachiochest.png",
+   "Price": "5,500 Bells" ,
+   "Completes": "Brachiosaurus"
+ },
+ {
+   "Name": "Brachio pelvis",
+   "Image": "NH-Furniture-brachiopelvis.png",
+   "Price": "5,000 Bells" ,
+   "Completes": "Brachiosaurus"
+ },
+ {
+   "Name": "Brachio tail",
+   "Image": "NH-Furniture-brachiotail.png",
+   "Price": "5,500 Bells" ,
+   "Completes": "Brachiosaurus"
+ },
+ {
+   "Name": "Deinony torso",
+   "Image": "NH-Furniture-deinonytorso.png",
+   "Price": "3,000 Bells" ,
+   "Completes": "Deinonychus"
+ },
+ {
+   "Name": "Deinony tail",
+   "Image": "NH-Furniture-deinonytail.png",
+   "Price": "2,500 Bells" ,
+   "Completes": "Deinonychus"
+ },
+ {
+   "Name": "Dimetrodon skull",
+   "Image": "NH-Furniture-dimetrodonskull.png",
+   "Price": "5,500 Bells" ,
+   "Completes": "Dimetrodon"
+ },
+ {
+   "Name": "Dimetrodon torso",
+   "Image": "NH-Furniture-dimetrodontorso.png",
+   "Price": "5,000 Bells" ,
+   "Completes": "Dimetrodon"
+ },
+ {
+   "Name": "Diplo skull",
+   "Image": "NH-Furniture-diploskull.png",
+   "Price": "5,000 Bells",
+   "Completes": "Diplodocus"
+ },
+ {
+   "Name": "Diplo neck",
+   "Image": "NH-Furniture-diploneck.png",
+   "Price": "4,500 Bells" ,
+   "Completes": "Diplodocus"
+ },
+ {
+   "Name": "Diplo chest",
+   "Image": "NH-Furniture-diplochest.png",
+   "Price": "4,000 Bells" ,
+   "Completes": "Diplodocus"
+ },
+ {
+   "Name": "Diplo pelvis",
+   "Image": "NH-Furniture-diplopelvis.png",
+   "Price": "4,500 Bells" ,
+   "Completes": "Diplodocus"
+ },
+ {
+   "Name": "Diplo tail",
+   "Image": "NH-Furniture-diplotail.png",
+   "Price": "5,000 Bells" ,
+   "Completes": "Diplodocus"
+ },
+ {
+   "Name": "Diplo tail tip",
+   "Image": "NH-Furniture-diplotailtip.png",
+   "Price": "4,000 Bells" ,
+   "Completes": "Diplodocus"
+ },
+ {
+   "Name": "Iguanodon skull",
+   "Image": "NH-Furniture-iguanodonskull.png",
+   "Price": "4,000 Bells",
+   "Completes": "Iguanodon"
+ },
+ {
+   "Name": "Iguanodon torso",
+   "Image": "NH-Furniture-iguanodontorso.png",
+   "Price": "3,500 Bells",
+   "Completes": "Iguanodon"
+ },
+ {
+   "Name": "Iguanodon tail",
+   "Image": "NH-Furniture-iguanodontail.png",
+   "Price": "3,000 Bells",
+   "Completes": "Iguanodon"
+ },
+ {
+   "Name": "Mammoth skull",
+   "Image": "NH-Furniture-mammothskull.png",
+   "Price": "3,000 Bells",
+   "Completes": "Mammoth"
+ },
+ {
+   "Name": "Mammoth torso",
+   "Image": "NH-Furniture-mammothtorso.png",
+   "Price": "2,500 Bells",
+   "Completes": "Mammoth"
+ },
+ {
+   "Name": "Megacero skull",
+   "Image": "NH-Furniture-megaceroskull.png",
+   "Price": "4,500 Bells",
+   "Completes": "Megacerops"
+ },
+ {
+   "Name": "Megacero torso",
+   "Image": "NH-Furniture-megacerotorso.png",
+   "Price": "3,500 Bells",
+   "Completes": "Megacerops"
+ },
+ {
+   "Name": "Megacero tail",
+   "Image": "NH-Furniture-megacerotail.png",
+   "Price": "3,000 Bells",
+   "Completes": "Megacerops"
+ },
+ {
+   "Name": "Left megalo side",
+   "Image": "NH-Furniture-leftmegaloside.png",
+   "Price": "4,000 Bells",
+   "Completes": "Megaloceros"
+ },
+ {
+   "Name": "Right megalo side",
+   "Image": "NH-Furniture-rightmegaloside.png",
+   "Price": "5,500 Bells",
+   "Completes": "Megaloceros"
+ },
+ {
+   "Name": "Ophthalmo skull",
+   "Image": "NH-Furniture-ophthalmoskull.png",
+   "Price": "2,500 Bells",
+   "Completes": "Ophthalmosaurus"
+ },
+ {
+   "Name": "Ophthalmo torso",
+   "Image": "NH-Furniture-ophthalmotorso.png",
+   "Price": "2,000 Bells",
+   "Completes": "Ophthalmosaurus"
+ },
+ {
+   "Name": "Pachysaurus skull",
+   "Image": "NH-Furniture-pachysaurusskull.png",
+   "Price": "4,000 Bells",
+   "Completes": "Pachycephalosaurus"
+ },
+ {
+   "Name": "Pachysaurus tail",
+   "Image": "NH-Furniture-pachysaurustail.png",
+   "Price": "3,500 Bells",
+   "Completes": "Pachycephalosaurus"
+ },
+ {
+   "Name": "Parasaur skull",
+   "Image": "NH-Furniture-parasaurskull.png",
+   "Price": "3,500 Bells" ,
+   "Completes": "Parasaurolophus"
+ },
+ {
+   "Name": "Parasaur torso",
+   "Image": "NH-Furniture-parasaurtorso.png",
+   "Price": "3,000 Bells",
+   "Completes": "Parasaurolophus"
+ },
+ {
+   "Name": "Parasaur tail",
+   "Image": "NH-Furniture-parasaurtail.png",
+   "Price": "2,500 Bells" ,
+   "Completes": "Parasaurolophus"
+ },
+ {
+   "Name": "Plesio skull",
+   "Image": "NH-Furniture-plesioskull.png",
+   "Price": "4,000 Bells",
+   "Completes": "Plesiosaurus"
+ },
+ {
+   "Name": "Plesio tail",
+   "Image": "NH-Furniture-plesioneck.png",
+   "Price": "4,500 Bells" ,
+   "Completes": "Plesiosaurus"
+ },
+ {
+   "Name": "Plesio body",
+   "Image": "NH-Furniture-plesiobody.png",
+   "Price": "4,500 Bells" ,
+   "Completes": "Plesiosaurus"
+ },
+ {
+   "Name": "Right ptera wing",
+   "Image": "NH-Furniture-rightpterawing.png",
+   "Price": "4,500 Bells",
+   "Completes": "Pteranodon"
+ },
+ {
+   "Name": "Ptera body",
+   "Image": "NH-Furniture-pterabody.png",
+   "Price": "4,000 Bells" ,
+   "Completes": "Pteranodon"
+ },
+ {
+   "Name": "Left ptera wing",
+   "Image": "NH-Furniture-leftpterawing.png",
+   "Price": "4,500 Bells" ,
+   "Completes": "Pteranodon"
+ },
+ {
+   "Name": "Right quetzal wing",
+   "Image": "NH-Furniture-rightquetzalwing.png",
+   "Price": "5,000 Bells",
+   "Completes": "Quetzalcoatlus"
+ },
+ {
+   "Name": "Quetzal torso",
+   "Image": "NH-Furniture-quetzaltorso.png",
+   "Price": "4,500 Bells",
+   "Completes": "Quetzalcoatlus"
+ },
+ {
+   "Name": "Left quetzal wing",
+   "Image": "NH-Furniture-leftquetzalwing.png",
+   "Price": "5,000 Bells",
+   "Completes": "Quetzalcoatlus"
+ },
+ {
+   "Name": "Sabertooth skull",
+   "Image": "NH-Furniture-sabertoothskull.png",
+   "Price": "2,500 Bells",
+   "Completes": "Sabertooth tiger"
+ },
+ {
+   "Name": "Sabertooth tail",
+   "Image": "NH-Furniture-sabertoothtail.png",
+   "Price": "2,000 Bells",
+   "Completes": "Sabertooth tiger"
+ },
+ {
+   "Name": "Spino skull",
+   "Image": "NH-Furniture-spinoskull.png",
+   "Price": "4,000 Bells",
+   "Completes": "Spinosaurus"
+ },
+ {
+   "Name": "Spino torso",
+   "Image": "NH-Furniture-spinotorso.png",
+   "Price": "5,000 Bells",
+   "Completes": "Spinosaurus"
+ },
+ {
+   "Name": "Spino tail",
+   "Image": "NH-Furniture-spinotail.png",
+   "Price": "2,500 Bells",
+   "Completes": "Spinosaurus"
+ },
+ {
+   "Name": "Stego skull",
+   "Image": "NH-Furniture-stegoskull.png",
+   "Price": "5,000 Bells",
+   "Completes": "Stegosaurus"
+ },
+ {
+   "Name": "Stego torso",
+   "Image": "NH-Furniture-stegotorso.png",
+   "Price": "4,500 Bells",
+   "Completes": "Stegosaurus"
+ },
+ {
+   "Name": "Stego tail",
+   "Image": "NH-Furniture-stegotail.png",
+   "Price": "4,000 Bells",
+   "Completes": "Stegosaurus"
+ },
+ {
+   "Name": "Tricera skull",
+   "Image": "NH-Furniture-triceraskull.png",
+   "Price": "5,500 Bells",
+   "Completes": "Triceratops"
+ },
+ {
+   "Name": "Tricera torso",
+   "Image": "NH-Furniture-triceratorso.png",
+   "Price": "5,000 Bells",
+   "Completes": "Triceratops"
+ },
+ {
+   "Name": "Tricera tail",
+   "Image": "NH-Furniture-triceratail.png",
+   "Price": "4,500 Bells",
+   "Completes": "Triceratops"
+ },
+ {
+   "Name": "T. rex skull",
+   "Image": "NH-Furniture-trexskull.png",
+   "Price": "6,000 Bells",
+   "Completes": "Tyrannosaurus rex"
+ },
+ {
+   "Name": "T. rex torso",
+   "Image": "NH-Furniture-trextorso.png",
+   "Price": "5,500 Bells",
+   "Completes": "Tyrannosaurus rex"
+ },
+ {
+   "Name": "T. rex tail",
+   "Image": "NH-Furniture-trextail.png",
+   "Price": "5,000 Bells",
+   "Completes": "Tyrannosaurus rex"
+ }
+]
