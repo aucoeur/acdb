@@ -1,0 +1,9 @@
+.Item {
+  width: 100%;
+  text-align: center;
+}
+
+.Item > img {
+  width: 100%;
+  height: auto;
+}
