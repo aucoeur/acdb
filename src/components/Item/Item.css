@@ -7,3 +7,15 @@
   width: 100%;
   height: auto;
 }
+
+h3 {
+  margin-bottom: 4px;
+}
+
+.price {
+  margin-bottom: 1.2em;
+}
+
+.fossilHeader {
+  height: 45px;
+}
