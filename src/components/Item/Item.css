@@ -1,6 +1,11 @@
 .Item {
   width: 100%;
   text-align: center;
+  color: #FFFFFF;
+}
+
+.itemCard:hover {
+  background-color: rgba(0, 195, 255, 0.509);
 }
 
 .Item > img {
@@ -13,7 +18,7 @@ h3 {
 }
 
 .price {
-  margin-bottom: 1.2em;
+  margin-bottom: 2em;
 }
 
 .fossilHeader {

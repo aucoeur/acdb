@@ -5,7 +5,7 @@ import './Item.css';
 function Item(props) {
     const  { name, image, price, completes } = props
     return (
-        <div>
+        <div className="itemCard">
             <div className="fossilHeader">
                 <h3>{ name }</h3>
                 { completes && 

@@ -3,5 +3,11 @@
   margin: auto;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 40px;
+  grid-row-gap: 10px;
+  grid-column-gap: 40px ;
+  color: #FFFFFF;
+}
+
+hr {
+  border: 1px solid white;
 }

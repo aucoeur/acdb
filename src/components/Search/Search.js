@@ -1,4 +1,7 @@
 import React from 'react';
+import { IconContext } from "react-icons";
+import { FaSearch } from 'react-icons/fa';
+import './Search.css';
 
 class SearchBar extends React.Component {
   constructor(props) {
@@ -17,14 +20,19 @@ class SearchBar extends React.Component {
   
   render() {
     return (
-        <form>
+        <div className="search">
+          <div>
+            <IconContext.Provider value={{ color:"#FFFFFF",size: "1.75em", className: "global-class-name" }}>
+              <FaSearch className="fa-search"/>
+            </IconContext.Provider>
+          </div>
             <input 
                 type = "text"
                 placeholder="Search"
                 value={ this.props.filterText } 
                 onChange= { this.handleFilterTextChange } 
             />
-        </form>
+        </div>
         );
     }
 }

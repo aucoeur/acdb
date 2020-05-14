@@ -32,20 +32,22 @@ class ItemList extends React.Component {
         const filterText = this.props.filterText;
         const filtered = [];
 
-        this.props.items.forEach(({ Name, Image, Price, Completes }, i) => {
-            if (Name.toLowerCase().indexOf(filterText) === -1) {
-                return;
-            }
-            filtered.push(
-                <Item 
-                    key = { i }
-                    name = { Name }
-                    image = { Image }
-                    price = { Price }
-                    completes = { Completes }
-                />
-            );
-        })
+        this.props.items
+            .sort((a,b) => (a.Name < b.Name) ? -1 : (a.Name > b.Name) ? 1 : 0)
+            .forEach(({ Name, Image, Price, Completes }, i) => {
+                if (Name.toLowerCase().indexOf(filterText) === -1) {
+                    return;
+                }
+                filtered.push(
+                    <Item 
+                        key = { i }
+                        name = { Name }
+                        image = { Image }
+                        price = { Price }
+                        completes = { Completes }
+                    />
+                );
+            })
 
     return (
         <div className = "ItemList">

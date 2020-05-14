@@ -3,6 +3,7 @@ import { HashRouter as Router, Route } from 'react-router-dom';
 
 import './App.css';
 import Header from './components/Header/Header';
+import About from './components/About/About';
 import FilteredItemList from './components/FilteredItemList/FilteredItemList';
 import data from './data/NH-fossils.json';
 
@@ -15,6 +16,7 @@ function App() {
           path = "/" 
           render = { (props) => <FilteredItemList {...props} items={data} />} 
         />
+        <Route path="/about" component= {About} />
       </div>
     </Router>
   );
