@@ -1,0 +1,34 @@
+@import "../../shared.scss";
+
+.Header {
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: $padding;
+  margin-bottom: $padding * 2; 
+  background-color: rgb(138, 43, 2);
+  color: $color-light;
+}
+
+.Subtitle {
+  color: $color-light;
+  margin-bottom: $padding * 1.33;
+}
+
+.nav-link {
+  display: inline-block;
+  padding: $padding / 2 $padding;
+  color: $color-light;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.nav-link-active {
+  color: $color-light;
+  border-bottom: $padding /8 solid;
+}
+
+h1{
+  margin-bottom: $padding / 3 ;
+}

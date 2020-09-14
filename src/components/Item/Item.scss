@@ -1,7 +1,9 @@
+@import "../../shared.scss";
+
 .Item {
   width: 100%;
   text-align: center;
-  color: #FFFFFF;
+  color: $color-light;
 }
 
 .itemCard:hover {
@@ -14,13 +16,13 @@
 }
 
 h3 {
-  margin-bottom: 4px;
+  margin-bottom: $border-size;
 }
 
 .price {
-  margin-bottom: 2em;
+  margin-bottom: $padding * 1.5;
 }
 
 .fossilHeader {
-  height: 45px;
+  height: $font-size * 3;
 }
