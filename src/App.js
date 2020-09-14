@@ -1,7 +1,7 @@
 import React from 'react';
 import { HashRouter as Router, Route } from 'react-router-dom';
 
-import './App.css';
+import './App.scss';
 import Header from './components/Header/Header';
 import About from './components/About/About';
 import FilteredItemList from './components/FilteredItemList/FilteredItemList';

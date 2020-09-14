@@ -1,7 +1,7 @@
 import React from 'react';
 import { IconContext } from "react-icons";
 import { FaSearch } from 'react-icons/fa';
-import './Search.css';
+import './Search.scss';
 
 class SearchBar extends React.Component {
   constructor(props) {

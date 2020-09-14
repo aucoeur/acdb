@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import './Item.css';
+import './Item.scss';
 
 function Item(props) {
     const  { name, image, price, completes } = props
